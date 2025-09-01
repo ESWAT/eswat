@@ -1,5 +1,6 @@
-## Hi there 👋
+## gm 🌞
 
+Check out my [nomad event & workation aggregator, Reorient](https://reorient.guide/).
 <!--
 **ESWAT/eswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
